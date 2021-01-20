@@ -1,0 +1,30 @@
+
+---Downloaded files---
+The import files for: Mobile App were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://shop.pictorialstudios.in
+Data file = /home4/picton3l/shop.pictorialstudios.in/wp-content/uploads/2021/01/demo-content-import-file_2021-01-08__05-46-36.xml
+Widget file = /home4/picton3l/shop.pictorialstudios.in/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-08__05-46-36.json
+Customizer file = /home4/picton3l/shop.pictorialstudios.in/wp-content/uploads/2021/01/demo-customizer-import-file_2021-01-08__05-46-36.dat
+
+---Importing widgets---
+everse-blog-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+
+everse-page-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---everse-starter-sites/after_import---
+

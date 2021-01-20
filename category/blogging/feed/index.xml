@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blogging &#8211; WhatsBot</title>
+	<atom:link href="/category/blogging/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 03 Sep 2020 09:10:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Loans 101: When does it make sense to use an installment loan?</title>
+		<link>/2020/09/03/loans-101-when-does-it-make-sense-to-use-an-installment-loan/</link>
+					<comments>/2020/09/03/loans-101-when-does-it-make-sense-to-use-an-installment-loan/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2020 09:10:12 +0000</pubDate>
+				<category><![CDATA[Blogging]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[seo]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=46</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/09/03/loans-101-when-does-it-make-sense-to-use-an-installment-loan/"> <span class="screen-reader-text">Loans 101: When does it make sense to use an installment loan?</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/09/03/loans-101-when-does-it-make-sense-to-use-an-installment-loan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

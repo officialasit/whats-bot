@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business &#8211; WhatsBot</title>
+	<atom:link href="/category/business/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Sep 2020 10:48:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Breaking One Task Down Into Bite-Size Pieces</title>
+		<link>/2020/09/07/breaking-one-task-down-into-bite-size-pieces/</link>
+					<comments>/2020/09/07/breaking-one-task-down-into-bite-size-pieces/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 10:48:07 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[money]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=172</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/09/07/breaking-one-task-down-into-bite-size-pieces/"> <span class="screen-reader-text">Breaking One Task Down Into Bite-Size Pieces</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/09/07/breaking-one-task-down-into-bite-size-pieces/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>9 Essential Parts of a Business Plan</title>
+		<link>/2020/09/07/9-essential-parts-of-a-business-plan/</link>
+					<comments>/2020/09/07/9-essential-parts-of-a-business-plan/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 10:47:12 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[money]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=170</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/09/07/9-essential-parts-of-a-business-plan/"> <span class="screen-reader-text">9 Essential Parts of a Business Plan</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/09/07/9-essential-parts-of-a-business-plan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What You Should Cover at Daily Pre-Shift Meetings</title>
+		<link>/2020/09/07/what-you-should-cover-at-daily-pre-shift-meetings/</link>
+					<comments>/2020/09/07/what-you-should-cover-at-daily-pre-shift-meetings/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 10:45:56 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[money]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=168</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/09/07/what-you-should-cover-at-daily-pre-shift-meetings/"> <span class="screen-reader-text">What You Should Cover at Daily Pre-Shift Meetings</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/09/07/what-you-should-cover-at-daily-pre-shift-meetings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to build a company culture of success</title>
+		<link>/2020/09/07/how-to-build-a-company-culture-of-success/</link>
+					<comments>/2020/09/07/how-to-build-a-company-culture-of-success/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 10:43:24 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[money]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=164</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/09/07/how-to-build-a-company-culture-of-success/"> <span class="screen-reader-text">How to build a company culture of success</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/09/07/how-to-build-a-company-culture-of-success/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Leadership Qualities and Confidence Make Money</title>
+		<link>/2020/09/07/leadership-qualities-and-confidence-make-money/</link>
+					<comments>/2020/09/07/leadership-qualities-and-confidence-make-money/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 03:26:37 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[money]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=160</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/09/07/leadership-qualities-and-confidence-make-money/"> <span class="screen-reader-text">Leadership Qualities and Confidence Make Money</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/09/07/leadership-qualities-and-confidence-make-money/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Investment Update, Successful people ask better questions</title>
+		<link>/2020/09/07/investment-update-successful-people-ask-better-questions/</link>
+					<comments>/2020/09/07/investment-update-successful-people-ask-better-questions/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2020 03:25:10 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Investment]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[money]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=158</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/09/07/investment-update-successful-people-ask-better-questions/"> <span class="screen-reader-text">Investment Update, Successful people ask better questions</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/09/07/investment-update-successful-people-ask-better-questions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Business Mistakes to Avoid When Starting a Business</title>
+		<link>/2020/09/05/business-mistakes-to-avoid-when-starting-a-business/</link>
+					<comments>/2020/09/05/business-mistakes-to-avoid-when-starting-a-business/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2020 02:54:26 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[money]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=145</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/09/05/business-mistakes-to-avoid-when-starting-a-business/"> <span class="screen-reader-text">Business Mistakes to Avoid When Starting a Business</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/09/05/business-mistakes-to-avoid-when-starting-a-business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Meet Average Person Who is Disrupting the Way Business Is Done</title>
+		<link>/2020/07/30/hello-world-2/</link>
+					<comments>/2020/07/30/hello-world-2/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 01:44:28 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[seo]]></category>
+		<guid isPermaLink="false">https://everse.deothemes.com/?p=1</guid>
+
+					<description><![CDATA[The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of pieces of content—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you’ll notice the different blocks light up with outlines and arrows. Press the &#8230;<p class="read-more"> <a class="" href="/2020/07/30/hello-world-2/"> <span class="screen-reader-text">Meet Average Person Who is Disrupting the Way Business Is Done</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your <a href="#">cursor around</a> and you’ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<p>Headings are separate blocks as well, which helps with the outline and organization of your content. What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post&#8230;</p>
+
+
+
+<ul><li>Text &amp; Headings</li><li>Images &amp; Videos</li><li>Galleries</li><li>Embeds, like YouTube, Tweets, or other WordPress posts.</li><li>Layout blocks, like Buttons, Hero Images, Separators, etc.</li><li>And <em>Lists</em> like this one of course <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Visual Editing</h2>
+
+
+
+<p>A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-default"><p>Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. </p><cite>Matt Mullenweg, 2017</cite></blockquote>
+
+
+
+<p>The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It’s always easy to add it back.</p>
+
+
+
+<h2>Media Rich</h2>
+
+
+
+<p>If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:</p>
+
+
+
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="https://everse.deothemes.com/wp-content/uploads/2020/09/post_img_11-min-1024x576.jpg" alt="" class="wp-image-41"/><figcaption>Credit: Michael Murray</figcaption></figure>
+
+
+
+<p>Sure, the full-wide image can be pretty big. But sometimes the image is worth it. The above is a gallery with just two images. It’s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher.</p>
+
+
+
+<h4>Conclusion</h4>
+
+
+
+<p>Any block can opt into these alignments. The embed block has them also, and is responsive out of the box. The information corresponding to the source of the quote is a separate text field, similar to captions under images.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/07/30/hello-world-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
